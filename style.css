@@ -15,7 +15,7 @@ body{
 .container{
     display: flex;
     justify-content: space-between;
-    width: 1090px;
+    width: 1105px;
     -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0004) ;
 }
 
